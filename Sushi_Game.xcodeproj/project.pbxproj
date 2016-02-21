@@ -7,13 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8674AEE51C6F783D0041A7D3 /* sushi1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8674AEE41C6F783D0041A7D3 /* sushi1.png */; };
+		8674AEE71C6F78430041A7D3 /* sushi2.png in Resources */ = {isa = PBXBuildFile; fileRef = 8674AEE61C6F78430041A7D3 /* sushi2.png */; };
+		8674AEE91C6F784B0041A7D3 /* sushi3.png in Resources */ = {isa = PBXBuildFile; fileRef = 8674AEE81C6F784B0041A7D3 /* sushi3.png */; };
 		8687BABF1BDF966600BFE906 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8687BABE1BDF966600BFE906 /* AppDelegate.swift */; };
 		8687BAC11BDF966600BFE906 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8687BAC01BDF966600BFE906 /* ViewController.swift */; };
 		8687BAC41BDF966600BFE906 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8687BAC21BDF966600BFE906 /* Main.storyboard */; };
 		8687BAC61BDF966600BFE906 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8687BAC51BDF966600BFE906 /* Assets.xcassets */; };
 		8687BAC91BDF966600BFE906 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8687BAC71BDF966600BFE906 /* LaunchScreen.storyboard */; };
-		8687BAD41BDF966700BFE906 /* Sushi_GameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8687BAD31BDF966700BFE906 /* Sushi_GameTests.swift */; };
 		8687BADF1BDF966700BFE906 /* Sushi_GameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8687BADE1BDF966700BFE906 /* Sushi_GameUITests.swift */; };
+		8693F1981C0483A8004FFB94 /* chopsticks.png in Resources */ = {isa = PBXBuildFile; fileRef = 8693F1971C0483A8004FFB94 /* chopsticks.png */; };
+		86C40C421C712EEF001DA002 /* bentobox_new.png in Resources */ = {isa = PBXBuildFile; fileRef = 86C40C411C712EEF001DA002 /* bentobox_new.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +38,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8674AEE41C6F783D0041A7D3 /* sushi1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sushi1.png; sourceTree = "<group>"; };
+		8674AEE61C6F78430041A7D3 /* sushi2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sushi2.png; sourceTree = "<group>"; };
+		8674AEE81C6F784B0041A7D3 /* sushi3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sushi3.png; sourceTree = "<group>"; };
 		8687BABB1BDF966600BFE906 /* Sushi_Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sushi_Game.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8687BABE1BDF966600BFE906 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8687BAC01BDF966600BFE906 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -42,11 +49,11 @@
 		8687BAC81BDF966600BFE906 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8687BACA1BDF966600BFE906 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8687BACF1BDF966700BFE906 /* Sushi_GameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Sushi_GameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		8687BAD31BDF966700BFE906 /* Sushi_GameTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sushi_GameTests.swift; sourceTree = "<group>"; };
-		8687BAD51BDF966700BFE906 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8687BADA1BDF966700BFE906 /* Sushi_GameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Sushi_GameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8687BADE1BDF966700BFE906 /* Sushi_GameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sushi_GameUITests.swift; sourceTree = "<group>"; };
 		8687BAE01BDF966700BFE906 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8693F1971C0483A8004FFB94 /* chopsticks.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chopsticks.png; sourceTree = "<group>"; };
+		86C40C411C712EEF001DA002 /* bentobox_new.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bentobox_new.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,7 +85,6 @@
 			isa = PBXGroup;
 			children = (
 				8687BABD1BDF966600BFE906 /* Sushi_Game */,
-				8687BAD21BDF966700BFE906 /* Sushi_GameTests */,
 				8687BADD1BDF966700BFE906 /* Sushi_GameUITests */,
 				8687BABC1BDF966600BFE906 /* Products */,
 			);
@@ -97,6 +103,7 @@
 		8687BABD1BDF966600BFE906 /* Sushi_Game */ = {
 			isa = PBXGroup;
 			children = (
+				8687BAEE1BDF9B4300BFE906 /* assets */,
 				8687BABE1BDF966600BFE906 /* AppDelegate.swift */,
 				8687BAC01BDF966600BFE906 /* ViewController.swift */,
 				8687BAC21BDF966600BFE906 /* Main.storyboard */,
@@ -107,15 +114,6 @@
 			path = Sushi_Game;
 			sourceTree = "<group>";
 		};
-		8687BAD21BDF966700BFE906 /* Sushi_GameTests */ = {
-			isa = PBXGroup;
-			children = (
-				8687BAD31BDF966700BFE906 /* Sushi_GameTests.swift */,
-				8687BAD51BDF966700BFE906 /* Info.plist */,
-			);
-			path = Sushi_GameTests;
-			sourceTree = "<group>";
-		};
 		8687BADD1BDF966700BFE906 /* Sushi_GameUITests */ = {
 			isa = PBXGroup;
 			children = (
@@ -123,6 +121,18 @@
 				8687BAE01BDF966700BFE906 /* Info.plist */,
 			);
 			path = Sushi_GameUITests;
+			sourceTree = "<group>";
+		};
+		8687BAEE1BDF9B4300BFE906 /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				86C40C411C712EEF001DA002 /* bentobox_new.png */,
+				8674AEE41C6F783D0041A7D3 /* sushi1.png */,
+				8674AEE61C6F78430041A7D3 /* sushi2.png */,
+				8674AEE81C6F784B0041A7D3 /* sushi3.png */,
+				8693F1971C0483A8004FFB94 /* chopsticks.png */,
+			);
+			name = assets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -230,7 +240,12 @@
 			files = (
 				8687BAC91BDF966600BFE906 /* LaunchScreen.storyboard in Resources */,
 				8687BAC61BDF966600BFE906 /* Assets.xcassets in Resources */,
+				8674AEE51C6F783D0041A7D3 /* sushi1.png in Resources */,
+				86C40C421C712EEF001DA002 /* bentobox_new.png in Resources */,
 				8687BAC41BDF966600BFE906 /* Main.storyboard in Resources */,
+				8693F1981C0483A8004FFB94 /* chopsticks.png in Resources */,
+				8674AEE71C6F78430041A7D3 /* sushi2.png in Resources */,
+				8674AEE91C6F784B0041A7D3 /* sushi3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,7 +279,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8687BAD41BDF966700BFE906 /* Sushi_GameTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -481,6 +495,7 @@
 				8687BAE51BDF966700BFE906 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8687BAE61BDF966700BFE906 /* Build configuration list for PBXNativeTarget "Sushi_GameTests" */ = {
 			isa = XCConfigurationList;
@@ -489,6 +504,7 @@
 				8687BAE81BDF966700BFE906 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8687BAE91BDF966700BFE906 /* Build configuration list for PBXNativeTarget "Sushi_GameUITests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +513,7 @@
 				8687BAEB1BDF966700BFE906 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
